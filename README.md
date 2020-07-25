@@ -1,3 +1,3 @@
 # Image_classification
-Classification of 8 classical dance forms.
-This model uses transfer learning to classify the 8 different dance forms.
+This is a classification model of buildings, mountains, sea, glacier, streets and forests.
+I have used ResNet50 architecture.
